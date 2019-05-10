@@ -12,3 +12,7 @@ __pycache__/
 
 # Notebooks
 .ipynb_checkpoints
+
+# Pycharm
+/.idea
+/venv
